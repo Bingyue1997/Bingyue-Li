@@ -1,0 +1,7 @@
+{
+  "name": "JourneyLens",
+  "description": "An AI-powered travel timeline and map that organizes your photos into beautiful daily summaries and shareable social media content.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
